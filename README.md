@@ -1,8 +1,9 @@
-# FaceRecognition
-A basic Python Face Recognition
+Installation
 
-#Installation 
-I used Google Colab for this Code 
-What I did is use this line code to download the Face Recognition Library :
+I utilized Google Colab for developing this code. To set up the necessary environment, use the following code snippet in a Colab cell to install the Face Recognition library:
+
+python
+
 !pip install face_recognition
-and then You good to go 
+
+Once the library is installed, you are ready to explore and use the face recognition features in the code.
