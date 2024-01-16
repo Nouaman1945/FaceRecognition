@@ -2,7 +2,7 @@ Installation
 
 I utilized Google Colab for developing this code. To set up the necessary environment, use the following code snippet in a Colab cell to install the Face Recognition library:
 
-python
+
 
 !pip install face_recognition
 
